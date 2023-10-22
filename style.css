@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.img-carousel{
+    height: 600px;
+    width: 100%;
+}
+.icon{
+    height: 70px;
+    width: 80px;
+}
+.about{
+    border: 10px solid gray;
+}
+.fun{
+    border: 2px solid black;
+}
+.img_fun{
+    width: 200px;
+}
+.team{
+    height: 400px;
+    width: 400px;
+}
+.social{
+    height: 80px;
+    width: 80px;
+}
+.footer_logo{
+    border: 1px solid rgb(9, 9, 9);
+}
